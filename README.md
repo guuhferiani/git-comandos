@@ -1,10 +1,12 @@
 # projeto-git-comandos
+##
 
-
-echo "# projeto-git-comandos" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/guuhferiani/projeto-git-comandos.git
-git push -u origin main
+<div>
+  <p> echo "# projeto-git-comandos" >> README.md</p>
+  <p> git init </p>
+  <p> git add README.md  </p>
+  <p> git commit -m "first commit" </p>
+  <p> git branch -M main  </p>
+  <p> git remote add origin https://github.com/guuhferiani/projeto-git-comandos.git  </p>
+  <p> git push -u origin main </p>  
+</div>
